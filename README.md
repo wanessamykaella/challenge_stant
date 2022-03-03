@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Questões atendidas do desafio:
+Resposta da API no padrão REST utilizando JSON, testes, exibição da listagem solicitada, só não na ordem, dados salvos, talks geradas.
 
-Things you may want to cover:
+* Questões não atendidas:
+O endpoint não está recebendo o arquivo com a lista, isso está sendo feito à partir do controller; versão do Ruby, a utilizada foi a 2.7.2.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
